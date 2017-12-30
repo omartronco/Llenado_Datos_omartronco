@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margen_superior">40dp</dimen>
+    <dimen name="margen_izq">20dp</dimen>
+    <dimen name="nota_al_pie">10dp</dimen>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App Llenar Datos</string>
+    <string name="nombre">Nombre Completo*</string>
+    <string name="fecha_nacimiento">Fecha de Nacimiento* (doble click)</string>
+    <string name="telefono">Teléfono celular a 10 dígitos*</string>
+    <string name="correo">Correo Electrónico*</string>
+    <string name="pnombre">nombre</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="btn_editar">Editar datos</string>
+    <string name="campo_obligatorio">(*) Este campo es obligatorio</string>
+</resources>
